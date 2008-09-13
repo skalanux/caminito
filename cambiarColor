@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /usr/src/cambiacolor/
+python gcolor.py
