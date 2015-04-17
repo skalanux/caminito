@@ -1,0 +1,1 @@
+ACtualmente gnome posee una herramienta para cambiar sus colores, pero antiguamente no, esta herramienta sirve para hacer eso mismo cambiando el .gtkrc y si bien ahora no es necesario,sigue funcionando.
